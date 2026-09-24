@@ -1,6 +1,6 @@
 # Melhor Embalagens & Utilidades
 
-Página de catálogo com busca, filtros e lista de pedido enviada pelo WhatsApp. O layout é responsivo e usa as cores e imagens da loja em uma apresentação inspirada na linguagem visual da Apple.
+Página de catálogo com busca, filtros e lista de pedido enviada pelo WhatsApp. O layout escuro e responsivo usa as cores e imagens da loja, com seções amplas e cards de categorias.
 
 ## Visualizar
 

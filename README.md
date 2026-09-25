@@ -4,7 +4,7 @@ Página de catálogo com busca, filtros e lista de pedido enviada pelo WhatsApp.
 
 ## Visualizar
 
-Abra `dist/index.html` no navegador. O site é estático e não exige instalação ou build.
+Abra `docs/index.html` no navegador. O site é estático e não exige instalação ou build.
 
 Versão publicada: https://melhor-embalagens-utilidades.clerencristinasaccar.chatgpt.site
 
